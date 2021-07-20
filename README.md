@@ -1,4 +1,5 @@
 <H3>Introduce Myself</H3>
-<H5>+82 Designer && Developer based in Seoul</H5>
-<H5>Hongik Univ. textile art & fashion design</H5>
-<H5>https://hongiktafd.com/Kim-Joohye</H5>
+<ol>+82 Designer && Developer based in Seoul</ol>
+<ol>Hongik Univ. textile art & fashion design</ol>
+<H3>ArtWork</H3>
+<ol>https://hongiktafd.com/Kim-Joohye</ol>
