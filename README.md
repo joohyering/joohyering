@@ -3,3 +3,4 @@
 <ol>Hongik Univ. textile art & fashion design</ol>
 <H3>🌷ArtWork</H3>
 <ol>https://hongiktafd.com/Kim-Joohye</ol>
+<ol>https://hongiktafd.com/Kim-Joohye-1</ol>
