@@ -8,6 +8,4 @@
 	<ol>https://hongiktafd.com/Kim-Joohye<br>
 https://hongiktafd.com/Kim-Joohye-1</ol>
 	
-  <a href="github-readme-stats.vercel.app/api/top-langs/?username=joohyering&langs_count=8"></a>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohyering&&show_icons=true&theme=greywhite)
